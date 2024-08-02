@@ -34,4 +34,7 @@ Steps include:
 - Investigate customer feedback to improve the average customer rating of 3.9 and enhance overall customer satisfaction.
 
 
+![Screenshot 2024-08-02 102643](https://github.com/user-attachments/assets/f9d4eb7e-4b7d-4970-9899-ade11b818480)
+
+
 
