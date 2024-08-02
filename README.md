@@ -9,8 +9,8 @@ Steps includes:
 4.Data Analysis: Utilized DAX functions, measures, and calculated columns to perform detailed analysis.
 
 🎖️Key Metrics Analyzed:
-- Total Sales: : ₹1.20 M
-- Average Sales: ₹141
+- Total Sales: : $1.20 M
+- Average Sales: $141
 - Number of Items Sold: 8,523
 - Average Customer Rating: 3.9
 
@@ -19,7 +19,7 @@ Steps includes:
 🎖️Sales Performance:
 - Low-fat items make up 64.6% of total sales, significantly outperforming regular items.
 - The top-selling categories are Fruits and Vegetables, and Snack Foods, each generating ₹0.18M in sales.
-- Stores established in 2018 have generated the highest revenue at ₹205K.
+- Stores established in 2018 have generated the highest revenue at $205K.
 
 🎖️Geographical and Store Size Analysis:
 - Tier 3 cities are leading in sales performance.
